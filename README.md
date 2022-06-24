@@ -7,7 +7,7 @@ I'm a coder and a beginner front-end developer.
 I have been learning programming for over 5 years. My website layout is created using modern web development technologies. I squeeze all the features out of HTML5, CSS3 and JavaScript. I don't think it's worth mentioning that the layout is cross-browser and equally correctly displayed on devices of any format.
 
 * 🌍  I'm based in Omsk
-* 🖥️  See my portfolio at [My portfolio](http://korobko.ru)
+* 🖥️  See my portfolio at [My portfolio](http://korobko.site)
 * ✉️  You can contact me at [korobko.11@inbox.ru](mailto:korobko.11@inbox.ru)
 * 🧠  I'm learning Bootstrap, React.js and Vue.js
 * 🤝  I'm open to collaborating on intresting project
