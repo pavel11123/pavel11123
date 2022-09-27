@@ -1,7 +1,7 @@
 Hi 👋 My name is Pavel
 ======================
 
-I'm a coder and a beginner front-end developer.
+I'm front-end developer.
 -----------------------------------------------
 
 I have been learning programming for over 5 years. My website layout is created using modern web development technologies. I squeeze all the features out of HTML5, CSS3 and JavaScript. I don't think it's worth mentioning that the layout is cross-browser and equally correctly displayed on devices of any format.
